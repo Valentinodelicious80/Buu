@@ -1,1 +1,1 @@
-# Buu
+.gitignore
